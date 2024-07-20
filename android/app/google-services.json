@@ -1,0 +1,130 @@
+{
+  "project_info": {
+    "project_number": "798167088224",
+    "project_id": "vocsy-codec-ebook",
+    "storage_bucket": "vocsy-codec-ebook.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:798167088224:android:87b0ddbd4a80ac5a195705",
+        "android_client_info": {
+          "package_name": "com.vocsy.ebook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "798167088224-lknjqo32ve4b08rmgo0bv0ti7f1n87q9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vocsy.ebook",
+            "certificate_hash": "733e1b39979ad4b54b15e8e8fcc0e29674b9e9e4"
+          }
+        },
+        {
+          "client_id": "798167088224-tk43gouhs0kc14rp67v4rm1co0r20bb8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vocsy.ebook",
+            "certificate_hash": "18a107773d64bed200b041128730f94f0c069fcd"
+          }
+        },
+        {
+          "client_id": "798167088224-qjdva1amqdcub7qchic4c0s09j2bfgvm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDplhakTd6zncXDkJnL7zYyjCMAltPHkew"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "798167088224-qjdva1amqdcub7qchic4c0s09j2bfgvm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "798167088224-5ompip543dd7us5foi6gm7r8i8al24b7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.vocsy.flutterebook"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:798167088224:android:e7867c697710940e195705",
+        "android_client_info": {
+          "package_name": "com.vocsy.ebookapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "798167088224-1tm0limicqse9tg2693fbqlb8n319idt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vocsy.ebookapp",
+            "certificate_hash": "9b1e7f58ef6039423d519584f9b72fe3d904dc18"
+          }
+        },
+        {
+          "client_id": "798167088224-t978vo9fbf2dk5t029dh9vf05ubul19p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vocsy.ebookapp",
+            "certificate_hash": "18a107773d64bed200b041128730f94f0c069fcd"
+          }
+        },
+        {
+          "client_id": "798167088224-tkcq2s2i59mlgledu6p3n456hq2hqj9f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vocsy.ebookapp",
+            "certificate_hash": "5951a90d0568bae452d73dc75feccad2e5517f18"
+          }
+        },
+        {
+          "client_id": "798167088224-vsi5mefalld485oed9vl802te5i8fiu1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vocsy.ebookapp",
+            "certificate_hash": "733e1b39979ad4b54b15e8e8fcc0e29674b9e9e4"
+          }
+        },
+        {
+          "client_id": "798167088224-qjdva1amqdcub7qchic4c0s09j2bfgvm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDplhakTd6zncXDkJnL7zYyjCMAltPHkew"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "798167088224-qjdva1amqdcub7qchic4c0s09j2bfgvm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "798167088224-5ompip543dd7us5foi6gm7r8i8al24b7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.vocsy.flutterebook"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
